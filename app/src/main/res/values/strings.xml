@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FastFocus</string>
+
+    <string name="aimTitle">Objectif de l\'application</string>
+    <string name="aimContent">Tantum autem cuique tribuendum, primum quantum ipse efficere possis, deinde etiam quantum ille quem diligas atque adiuves, sustinere. Non enim neque tu possis, quamvis excellas, omnes tuos ad honores amplissimos perducere, ut Scipio P. Rupilium potuit consulem efficere, fratrem eius L. non potuit. Quod si etiam possis quidvis deferre ad alterum, videndum est tamen, quid ille possit sustinere.</string>
+    <string name="anxiety">Dessin d\'une personne anxieuse</string>
+    <string name="method_lists">Liste des méthodes</string>
+    <string name="run_exercise_1">Méthode n°1\n(durée estimée : 2 minutes)</string>
+    <string name="run_exercise_2">Méthode n°2\n(durée estimée : 3 minutes)</string>
+
+    <string name="etape_1_respiration">Etape 1/4 : Respiration</string>
+    <string name="start_breath_button"> Cliquer ici pour commencer </string>
+    <string name="breath_time">0:05</string>
+    <string name="description_breath">Sed cautela nimia in peiores haeserat plagas, ut narrabimus postea, aemulis consarcinantibus insidias graves apud Constantium, cetera medium principem sed siquid auribus eius huius modi quivis infudisset ignotus, acerbum et inplacabilem et in hoc causarum titulo dissimilem sui.</string>
+    <string name="inspirer">INSPIRER</string>
+    <string name="expirer">EXPIRER</string>
+    <string name="animations_de_poumons">Animation de poumons se remplissant et se vidant</string>
+
+
+
+    <string name="etape_2_rails">Etape 2/4 : Rails parallèles</string>
+    <string name="description_rails">Sed cautela nimia in peiores haeserat plagas, ut narrabimus postea, aemulis consarcinantibus insidias graves apud Constantium, cetera medium principem sed siquid auribus eius huius modi quivis infudisset ignotus, acerbum et inplacabilem et in hoc causarum titulo dissimilem sui.</string>
+    <string name="photo_de_rails_de_train">Photo de rails de train</string>
+
+    <string name="etape_3_infini">Etape 3/4 : Infini</string>
+    <string name="description_infini">Sed cautela nimia in peiores haeserat plagas, ut narrabimus postea, aemulis consarcinantibus insidias graves apud Constantium, cetera medium principem sed siquid auribus eius huius modi quivis infudisset ignotus, acerbum et inplacabilem et in hoc causarum titulo dissimilem sui.</string>
+
+    <string name="etape_4_mental">Etape 4/4 : Mental</string>
+    <string name="description_mental">Sed cautela nimia in peiores haeserat plagas, ut narrabimus postea, aemulis consarcinantibus insidias graves apud Constantium, cetera medium principem sed siquid auribus eius huius modi quivis infudisset ignotus, acerbum et inplacabilem et in hoc causarum titulo dissimilem sui.</string>
+    <string name="photo_tableau_mental">Photo d\'un tableau avec le mot mental écrit dessus</string>
+
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/etape_4_mental"
+            android:textStyle="bold"
+            android:textColor="@color/colorBlack"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:background="@color/colorBeige"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/description_mental"
+            android:textSize="15sp"
+            android:gravity="center"
+            tools:ignore="NestedWeights"
+            android:padding="10dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/colorBeige">
+
+        <ImageView
+            android:id="@+id/rails"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/mental"
+            android:padding="30dp"
+            android:contentDescription="@string/photo_de_rails_de_train"
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>

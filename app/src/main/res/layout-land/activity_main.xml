@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar" />
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:baselineAligned="false">
+
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/aimTitle"
+                android:textStyle="bold"
+                android:textColor="@color/colorBlack"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:background="@color/colorBeige"
+                android:padding="10dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/aimContent"
+                android:textSize="15sp"
+                android:gravity="center"
+                tools:ignore="NestedWeights"
+                android:padding="10dp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/colorBeige"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/method_lists"
+                android:textStyle="bold"
+                android:textColor="@color/colorBlack"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:background="@color/colorBeige"
+                android:padding="10dp"
+                />
+
+            <Button
+                android:id="@+id/run_exercise"
+                android:text="@string/run_exercise_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="30dp"
+                android:textAllCaps="false"
+                android:background="@color/colorBrown"
+                android:textColor="@color/colorWhite"
+                />
+
+            <Button
+                android:id="@+id/run_exercise_2"
+                android:text="@string/run_exercise_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginBottom="30dp"
+                android:textAllCaps="false"
+                android:background="@color/colorBrown"
+                android:textColor="@color/colorWhite"
+                />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>
+

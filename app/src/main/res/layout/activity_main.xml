@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/aimTitle"
+            android:textStyle="bold"
+            android:textColor="@color/colorBlack"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:background="@color/colorBeige"
+            android:padding="10dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/brain"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:contentDescription="@string/anxiety"
+                android:src="@drawable/anxiety"
+                android:padding="30dp"/>
+
+            <TextView
+                android:id="@+id/aimDescApp"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="13sp"
+                android:gravity="center_vertical"
+                android:padding="10dp"
+                android:text="@string/aimContent"
+                />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:background="@color/colorBeige">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/method_lists"
+            android:textStyle="bold"
+            android:textColor="@color/colorBlack"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:padding="10dp"
+            />
+
+        <Button
+            android:id="@+id/run_exercise"
+            android:text="@string/run_exercise_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="30dp"
+            android:textAllCaps="false"
+            android:background="@color/colorBrown"
+            android:textColor="@color/colorWhite"
+            />
+
+        <Button
+            android:id="@+id/run_exercise_2"
+            android:text="@string/run_exercise_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginBottom="30dp"
+            android:textAllCaps="false"
+            android:background="@color/colorBrown"
+            android:textColor="@color/colorWhite"
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>
