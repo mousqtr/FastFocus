@@ -2,7 +2,7 @@
     <string name="app_name">FastFocus</string>
 
     <string name="aimTitle">Objectif de l\'application</string>
-    <string name="aimContent">Tantum autem cuique tribuendum, primum quantum ipse efficere possis, deinde etiam quantum ille quem diligas atque adiuves, sustinere. Non enim neque tu possis, quamvis excellas, omnes tuos ad honores amplissimos perducere, ut Scipio P. Rupilium potuit consulem efficere, fratrem eius L. non potuit. Quod si etiam possis quidvis deferre ad alterum, videndum est tamen, quid ille possit sustinere.</string>
+    <string name="aimContent">FastFocus est une application permettant à son utilisateur de se concentrer en très peu de temps. En effet, certaines situations nécessitent de devoir focaliser son attention pour un but précis et de faire abstraction du reste (présentation orale, examen, entretien …). Pour cela, FastFocus fournit à ses utilisateurs différentes méthodes de concentration de durée variable. Chaque utilisateur pourra ainsi privilégier la ou les méthodes qu’il souhaite. </string>
     <string name="anxiety">Dessin d\'une personne anxieuse</string>
     <string name="method_lists">Liste des méthodes</string>
     <string name="run_exercise_1">Méthode n°1\n(durée estimée : 2 minutes)</string>
@@ -11,22 +11,20 @@
     <string name="etape_1_respiration">Etape 1/4 : Respiration</string>
     <string name="start_breath_button"> Cliquer ici pour commencer </string>
     <string name="breath_time">0:05</string>
-    <string name="description_breath">Sed cautela nimia in peiores haeserat plagas, ut narrabimus postea, aemulis consarcinantibus insidias graves apud Constantium, cetera medium principem sed siquid auribus eius huius modi quivis infudisset ignotus, acerbum et inplacabilem et in hoc causarum titulo dissimilem sui.</string>
+    <string name="description_breath">La respiration est une étape essentielle pour pouvoir se concentrer. Pour cette étape, inspirez pendant 5 secondes jusqu’à remplir vos poumons d’air. Après cela, expirez pendant 5 secondes jusqu’à vider l’air contenu dans vos poumons. Répétez cette étape 3 fois. </string>
     <string name="inspirer">INSPIRER</string>
     <string name="expirer">EXPIRER</string>
     <string name="animations_de_poumons">Animation de poumons se remplissant et se vidant</string>
 
-
-
     <string name="etape_2_rails">Etape 2/4 : Rails parallèles</string>
-    <string name="description_rails">Sed cautela nimia in peiores haeserat plagas, ut narrabimus postea, aemulis consarcinantibus insidias graves apud Constantium, cetera medium principem sed siquid auribus eius huius modi quivis infudisset ignotus, acerbum et inplacabilem et in hoc causarum titulo dissimilem sui.</string>
+    <string name="description_rails">La deuxième étape nécessite un peu d’imagination. Fermez les yeux et imaginez deux rails parallèles qui s’étendent à l’infini. Une fois que vous avez l’image en tête, parcourez ces deux rails tout en les gardant parallèles l’une à l’autre. Faites cela durant environ 20 secondes.</string>
     <string name="photo_de_rails_de_train">Photo de rails de train</string>
 
     <string name="etape_3_infini">Etape 3/4 : Infini</string>
-    <string name="description_infini">Sed cautela nimia in peiores haeserat plagas, ut narrabimus postea, aemulis consarcinantibus insidias graves apud Constantium, cetera medium principem sed siquid auribus eius huius modi quivis infudisset ignotus, acerbum et inplacabilem et in hoc causarum titulo dissimilem sui.</string>
+    <string name="description_infini">A l’image de la précédente étape, vous devez maintenant imaginer le symbole Infini. Une fois que ce symbole vous apparait clairement, ajoutez un point lumineux sur le symbole. Une fois celui-ci apparu, faites-lui parcourir les boucles de la figure comme c’est le cas sur l’image suivante. Faites durer cette pensée durant environ 20 secondes.</string>
 
     <string name="etape_4_mental">Etape 4/4 : Mental</string>
-    <string name="description_mental">Sed cautela nimia in peiores haeserat plagas, ut narrabimus postea, aemulis consarcinantibus insidias graves apud Constantium, cetera medium principem sed siquid auribus eius huius modi quivis infudisset ignotus, acerbum et inplacabilem et in hoc causarum titulo dissimilem sui.</string>
+    <string name="description_mental">Cette dernière étape nécessite d’imaginez un tableau accroché au mur. Vous allez ensuite imaginer que vous écrivez le mot « MENTAL » sur ce tableau. Faites apparaître les lettres une par une. Répétez le procédé jusqu’à que le mot soit clairement visible sur le tableau.</string>
     <string name="photo_tableau_mental">Photo d\'un tableau avec le mot mental écrit dessus</string>
 
 </resources>
