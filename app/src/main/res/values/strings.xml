@@ -2,7 +2,7 @@
     <string name="app_name">FastFocus</string>
 
     <string name="aimTitle">Objectif de l\'application</string>
-    <string name="aimContent">FastFocus est une application permettant à son utilisateur de se concentrer en très peu de temps. En effet, certaines situations nécessitent de devoir focaliser son attention pour un but précis et de faire abstraction du reste (présentation orale, examen, entretien …). Pour cela, FastFocus fournit à ses utilisateurs différentes méthodes de concentration de durée variable. Chaque utilisateur pourra ainsi privilégier la ou les méthodes qu’il souhaite. </string>
+    <string name="aimContent">FastFocus est une application permettant à son utilisateur de se concentrer en très peu de temps. En effet, certaines situations nécessitent de devoir focaliser son attention pour un but précis et de faire abstraction du reste. Pour cela, FastFocus fournit à ses utilisateurs différentes méthodes de concentration de durée variable. Chaque utilisateur pourra ainsi privilégier la ou les méthodes qu’il souhaite. </string>
     <string name="anxiety">Dessin d\'une personne anxieuse</string>
     <string name="method_lists">Liste des méthodes</string>
     <string name="run_exercise_1">Méthode n°1\n(durée estimée : 2 minutes)</string>

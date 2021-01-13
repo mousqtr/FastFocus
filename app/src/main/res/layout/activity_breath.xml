@@ -31,8 +31,9 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="0dp"
+            android:textColor="@color/colorBlack"
             android:text="@string/description_breath"
-            android:textSize="15sp"
+            android:textSize="17sp"
             android:layout_weight="1"
             android:gravity="center"
             tools:ignore="NestedWeights"

@@ -37,7 +37,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="@string/description_mental"
-                android:textSize="15sp"
+                android:textSize="17sp"
+                android:textColor="@color/colorBlack"
                 android:gravity="center"
                 tools:ignore="NestedWeights"
                 android:padding="10dp"/>
